@@ -177,6 +177,8 @@ Is important to configure a name of the rule that have sense because this name w
 
 with slots you can have different versions of your web app and you can switch between them. You can also select a portion of the traffic to be redirected to one slot and another part to be redirected to another slot.
 
+Teacher said that slots is well applied to canary releases, where you wanna to limit the new version of the app to a small percent of the users, to rollback an implantation and to blue/green deployments.
+
 
 # Slides of the class
 

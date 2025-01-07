@@ -173,6 +173,11 @@ Is important to configure a name of the rule that have sense because this name w
 ![name of the rule](images/name-of-the-rule.png)
 
 
+# Slots
+
+with slots you can have different versions of your web app and you can switch between them. You can also select a portion of the traffic to be redirected to one slot and another part to be redirected to another slot.
+
+
 # Slides of the class
 
 [You can access here](slides-of-the-class.pptx)

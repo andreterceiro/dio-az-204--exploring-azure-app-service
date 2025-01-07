@@ -128,6 +128,9 @@ In the time teacher recorded the course, the screen to configure autoscaling was
 
 ![configuring autoscale](images/configuring-autoscale.png)
 
+More autoscaling settings:
+
+![more autoscalling settings](images/more-autoscaling-settings.png)
 
 
 # Seeing the logs

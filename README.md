@@ -48,3 +48,13 @@ I executed this command:
 ```
 az group list --query "[].{id:name}" 
 ```
+
+
+# Uploading the app
+
+This command didn't work due a limitation related to a resource group or a region. I saw correctly the resource groups available with the previous command, ok?
+
+```
+ az webapp up -g DefaultResourceGroup-EUS -n apphtml01x --html --region us-east-01
+```
+I tried also to create a resource group in [Azure portal](http://portal.azure.com), but this attempt didn't work too.

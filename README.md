@@ -124,3 +124,5 @@ az webapp log tail --name <name_of_the_app> --resource-group <name_of_the_resour
 By default the app running in the default subdomain of the domain **azurewebsite.net** already have a certificate, but if you change the domain you can configure a certificate for this new domain in this area:
 
 ![Configuring a certificate](images/configuring-a-certificate.png)
+
+Teacher said that is sufficient to only configure the certificate in the area related to the previous image. You can also put the certificate in a keyvault and configure it. On adding a certificate you have an option to import a certificate from a keyvault.

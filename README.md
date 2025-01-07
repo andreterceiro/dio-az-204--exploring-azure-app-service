@@ -92,3 +92,5 @@ I versioned the Azure app passed by the teacher without the original .git direto
 You can configure several things of an app in the Azure Portal:
 
 ![configuring an app](images/configuring-an-app.png)
+
+You configure there several things, ce3retificates as exampĺe. 

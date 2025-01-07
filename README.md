@@ -171,3 +171,10 @@ And you also can configure the scaling to be based on a specific date.
 Is important to configure a name of the rule that have sense because this name will appear in the report when the rule is triggered.
 
 ![name of the rule](images/name-of-the-rule.png)
+
+
+# Slides of the class
+
+[You can access here](slides-of-the-class.pptx)
+
+Again, the material here is **not** free to be copied and the presentation is a DIO presentation, please talk to them and not to me if you want to use the presentation.

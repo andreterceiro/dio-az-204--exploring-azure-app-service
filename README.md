@@ -109,3 +109,12 @@ In the next image you can see a change in the consumption of some resource relat
 ![consumption change](images/seeing-the-change-in-the-consumption-of-the-app.png)
 
 Teacher said that the log retention time is 30 days and if you try to extend this period, this action involves costs.
+
+
+# Seeing the logs
+
+You can see the logs in the area related to the app in the Azure Portal an also in the CLI with this command:
+
+```
+az webapp log tail --name <name_of_the_app> --resource-group <name_of_the_resource_group> --level verbose
+```

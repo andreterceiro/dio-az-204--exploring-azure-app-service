@@ -136,6 +136,10 @@ Teacher said that general things can be observed every 5 minutes, but to memory 
 
 And you also can configure the scaling to be based on a specific date.
 
+Is important to configure a name of the rule that have sense because this name will appear in the report when the rule is triggered.
+
+![name of the rule](images/name-of-the-rule.png)
+
 
 # Seeing the logs
 

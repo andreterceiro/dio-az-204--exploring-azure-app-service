@@ -107,3 +107,5 @@ You have also an option in the Azure Portal (inside the app details) to see the 
 In the next image you can see a change in the consumption of some resource related to the app:
 
 ![consumption change](images/seeing-the-change-in-the-consumption-of-the-app.png)
+
+Teacher said that the log retention time is 30 days and if you try to extend this period, this action involves costs.

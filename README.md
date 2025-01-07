@@ -103,3 +103,7 @@ If you wanna using websockets, you have a specific configuration about this thin
 Teacher said that is common paths generating problems. Paths related to paths of the files.
 
 You have also an option in the Azure Portal (inside the app details) to see the logs of the app. You have to enable logs in the app to see the logs.
+
+In the next image you can see a change in the consumption of some resource related to the app:
+
+![consumption change](images/seeing-the-change-in-the-consumption-of-the-app.png)

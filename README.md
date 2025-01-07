@@ -37,3 +37,5 @@ mkdir webapp01
 cd webapp01
 git clone git@github.com:Azure-Samples/html-docs-hello-world.git
 ```
+
+With these commands I created the directoty structure **webapp01 -> html-docs-hello-world -> website files (css, js, img ...)** 

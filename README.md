@@ -110,6 +110,17 @@ In the next image you can see a change in the consumption of some resource relat
 
 Teacher said that the log retention time is 30 days and if you try to extend this period, this action involves costs.
 
+You have several configurations and options to be done om the Azure Portal. Like
+
+- Load test;
+- See metrics;
+- An area to configure blocks;
+- An area to see quotes;
+- An area to see application insigths.
+
+Is cool to access the Azure Portal, access the area related to the app and see all the options.
+
+
 
 # Seeing the logs
 

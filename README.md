@@ -118,3 +118,9 @@ You can see the logs in the area related to the app in the Azure Portal an also 
 ```
 az webapp log tail --name <name_of_the_app> --resource-group <name_of_the_resource_group> --level verbose
 ```
+
+# Configuring a certificate
+
+By default the app running in the default subdomain of the domain **azurewebsite.net** already have a certificate, but if you change the domain you can configure a certificate for this new domain in this area:
+
+![Configuring a certificate](images/configuring-a-certificate.png)

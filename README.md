@@ -118,6 +118,10 @@ You have several configurations and options to be done om the Azure Portal. Like
 - An area to see quotes;
 - An area to see application insigths.
 
+Related to scale horizontal and vertical, the options in the portal are:
+
+![configuring scaling](images/configuring-scaling.png)
+
 Is cool to access the Azure Portal, access the area related to the app and see all the options.
 
 In the time teacher recorded the course, the screen to configure autoscaling was:

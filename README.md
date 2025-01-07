@@ -126,3 +126,5 @@ By default the app running in the default subdomain of the domain **azurewebsite
 ![Configuring a certificate](images/configuring-a-certificate.png)
 
 Teacher said that is sufficient to only configure the certificate in the area related to the previous image. You can also put the certificate in a keyvault and configure it. On adding a certificate you have an option to import a certificate from a keyvault.
+
+Teacher said that the certificate **.cert** you can import directly and the certificate **.pfx** you have to put it in a keyvault.

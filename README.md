@@ -96,3 +96,8 @@ You can configure several things of an app in the Azure Portal:
 You configure there several things, ce3retificates as exampĺe.
 
 If you wanna using websockets, you have a specific configuration about this thing.
+
+
+# General observations
+
+Teacher said that is common paths generating problems. Paths related to paths of the files. 

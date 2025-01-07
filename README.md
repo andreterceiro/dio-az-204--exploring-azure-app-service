@@ -132,6 +132,8 @@ More autoscaling settings:
 
 ![more autoscalling settings](images/more-autoscaling-settings.png)
 
+Teacher said that general things can be observed every 5 minutes, but to memory his advice is to observe on each 3 minutes.  
+
 
 # Seeing the logs
 

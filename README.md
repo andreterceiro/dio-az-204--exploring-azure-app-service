@@ -134,3 +134,10 @@ Teacher said that the certificate **.cert** you can import directly and the cert
 # Dimensioning
 
 You can make available more instances of the app based on a specific date like black friday or some resources, like measuring the CPU consumption and making new instances available on hitting 80% of the CPU consumption.
+
+
+# Scaling
+
+Also in Azure Portal you can configure horizontal and vertical scaling:
+
+![Configuring scaling](images/configuring-scaling.png)

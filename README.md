@@ -70,3 +70,8 @@ After making a change in the HTML as exampĺe, teacher executed again the previo
 The URL was showed in the output of the command to upload or update the app:
 
 ![URL of the app](images/url-of-the-app.png)
+
+
+# Versioning the app
+
+I versioned the Azure app passed by the teacher without the original .git diretory to avoid problems on vesioning. But is the same of the git repository that I cloned before (as documented in this document).

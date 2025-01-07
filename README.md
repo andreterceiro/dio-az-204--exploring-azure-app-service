@@ -118,28 +118,6 @@ You have several configurations and options to be done om the Azure Portal. Like
 - An area to see quotes;
 - An area to see application insigths.
 
-Related to scale horizontal and vertical, the options in the portal are:
-
-![configuring scaling](images/configuring-scaling.png)
-
-Is cool to access the Azure Portal, access the area related to the app and see all the options.
-
-In the time teacher recorded the course, the screen to configure autoscaling was:
-
-![configuring autoscale](images/configuring-autoscale.png)
-
-More autoscaling settings:
-
-![more autoscalling settings](images/more-autoscaling-settings.png)
-
-Teacher said that general things can be observed every 5 minutes, but to memory his advice is to observe on each 3 minutes.
-
-And you also can configure the scaling to be based on a specific date.
-
-Is important to configure a name of the rule that have sense because this name will appear in the report when the rule is triggered.
-
-![name of the rule](images/name-of-the-rule.png)
-
 
 # Seeing the logs
 
@@ -171,3 +149,25 @@ You can make available more instances of the app based on a specific date like b
 Also in Azure Portal you can configure horizontal and vertical scaling:
 
 ![Configuring scaling](images/configuring-scaling.png)
+
+Related to scale horizontal and vertical, the options in the portal are:
+
+![configuring scaling](images/configuring-scaling.png)
+
+Is cool to access the Azure Portal, access the area related to the app and see all the options.
+
+In the time teacher recorded the course, the screen to configure autoscaling was:
+
+![configuring autoscale](images/configuring-autoscale.png)
+
+More autoscaling settings:
+
+![more autoscalling settings](images/more-autoscaling-settings.png)
+
+Teacher said that general things can be observed every 5 minutes, but to memory his advice is to observe on each 3 minutes.
+
+And you also can configure the scaling to be based on a specific date.
+
+Is important to configure a name of the rule that have sense because this name will appear in the report when the rule is triggered.
+
+![name of the rule](images/name-of-the-rule.png)

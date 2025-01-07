@@ -93,4 +93,6 @@ You can configure several things of an app in the Azure Portal:
 
 ![configuring an app](images/configuring-an-app.png)
 
-You configure there several things, ce3retificates as exampĺe. 
+You configure there several things, ce3retificates as exampĺe.
+
+If you wanna using websockets, you have a specific configuration about this thing.

@@ -8,3 +8,8 @@ We can have one **app service** for several **web apps**. Is like to have one we
 ![Azure app service - general](images/azure-app-service-general.png)
 
 ![Deploy on app service](images/deploy-on-app-service.png)
+
+
+# Instalation of AZ CLI
+
+I followed [these instructions](https://learn.microsoft.com/pt-br/cli/azure/install-azure-cli-linux?pivots=apt) to install AZ CLI

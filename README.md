@@ -120,6 +120,10 @@ You have several configurations and options to be done om the Azure Portal. Like
 
 Is cool to access the Azure Portal, access the area related to the app and see all the options.
 
+In the time teacher recorded the course, the screen to configure autoscaling was:
+
+![configuring autoscale](images/configuring-autoscale.png)
+
 
 
 # Seeing the logs

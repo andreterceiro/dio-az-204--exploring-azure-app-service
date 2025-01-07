@@ -24,3 +24,5 @@ az login
 ```
 
 Then a browser window was open. I logged in. But the authentication was failed. The passed reason was due to MFA.
+
+To solve, in the same previous browser window, I logged (and confirmed with the code that was sent to my email). Then it was necessary to execute `az login` again and then in the next attemp the authentication through browser window (opened with the command `az login`) was successfull.

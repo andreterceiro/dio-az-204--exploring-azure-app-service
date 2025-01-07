@@ -119,6 +119,7 @@ You can see the logs in the area related to the app in the Azure Portal an also 
 az webapp log tail --name <name_of_the_app> --resource-group <name_of_the_resource_group> --level verbose
 ```
 
+
 # Configuring a certificate
 
 By default the app running in the default subdomain of the domain **azurewebsite.net** already have a certificate, but if you change the domain you can configure a certificate for this new domain in this area:
@@ -128,3 +129,8 @@ By default the app running in the default subdomain of the domain **azurewebsite
 Teacher said that is sufficient to only configure the certificate in the area related to the previous image. You can also put the certificate in a keyvault and configure it. On adding a certificate you have an option to import a certificate from a keyvault.
 
 Teacher said that the certificate **.cert** you can import directly and the certificate **.pfx** you have to put it in a keyvault.
+
+
+# Dimensioning
+
+You can make available more instances of the app based on a specific date like black friday or some resources, like measuring the CPU consumption and making new instances available on hitting 80% of the CPU consumption.

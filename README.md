@@ -100,4 +100,6 @@ If you wanna using websockets, you have a specific configuration about this thin
 
 # General observations
 
-Teacher said that is common paths generating problems. Paths related to paths of the files. 
+Teacher said that is common paths generating problems. Paths related to paths of the files.
+
+You have also an option in the Azure Portal (inside the app details) to see the logs of the app. You have to enable logs in the app to see the logs.

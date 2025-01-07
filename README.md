@@ -85,3 +85,10 @@ The URL was showed in the output of the command to upload or update the app:
 # Versioning the app
 
 I versioned the Azure app passed by the teacher without the original .git diretory to avoid problems on vesioning. But is the same of the git repository that I cloned before (as documented in this document).
+
+
+# Configuring an app
+
+You can configure several things of an app in the Azure Portal:
+
+![configuring an app](images/configuring-an-app.png)

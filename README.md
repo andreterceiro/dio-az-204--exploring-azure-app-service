@@ -4,3 +4,5 @@ First of all, this material is related to **my personal studies** of [this bootc
 
 
 We can have one **app service** for several **web apps**. Is like to have one web server for several web apps.
+
+![Azure app service - general](images/azure-app-service-general.png)

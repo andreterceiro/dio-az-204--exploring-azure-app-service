@@ -63,3 +63,10 @@ I tried also to create a resource group in [Azure portal](http://portal.azure.co
 # Updating the app
 
 After making a change in the HTML as exampĺe, teacher executed again the previous command.
+
+
+# Getting the URL of the app
+
+The URL was showed in the output of the command to upload or update the app:
+
+![URL of the app](images/url-of-the-app.png)

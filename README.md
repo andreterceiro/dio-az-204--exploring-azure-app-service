@@ -247,6 +247,10 @@ In the next screens he selected:
 - He said in the second step "deploy vamos fazer na mão";
 - In the other configurations he left the default values.1
 
+Then he opened VSCode and there he opened a local address allfiles\labs\01\starter\ . He ask us to open the 3 folders inside this path. When talking about the structure he tall us that there already have one build of the "Api" and one build of the "Web" (see the folders in the next image). Also, the images that he uploaded to the Azure wer there also.
+
+![some project structure](images/some-project-structure.png)
+
 
 # Slides of the class
 

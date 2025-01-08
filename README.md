@@ -263,6 +263,10 @@ Then to see the web apps created in Azure he executed:
 
 ![web app list](images/web-app-list.png)
 
+Then he uploaded a zip file with this command:
+
+![Uploading a zip file](images/uploading-a-zip-file.png)
+
 
 # Slides of the class
 

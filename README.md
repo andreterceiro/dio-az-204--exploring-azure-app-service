@@ -208,6 +208,8 @@ Teacher also made tests with a GET parameter http://domain/?**x-ms-routing-name=
 
 First teacher created a resource group to put all the resources in this group.
 
+After he created a storage account. The storage account configuration have some fields related to a storage, using the words "files" (Azure files) and "blob".
+
 
 # Slides of the class
 

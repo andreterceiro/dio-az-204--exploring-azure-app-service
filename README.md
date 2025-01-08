@@ -283,6 +283,8 @@ Then he configured the same variables of the appsettings.json as environment var
 
 ![configuring environment variables part 2](images/configuring-environment-variables-2.png)
 
+The api restarted itself and now he could access the images. End of part 1.
+
 
 # Slides of the class
 

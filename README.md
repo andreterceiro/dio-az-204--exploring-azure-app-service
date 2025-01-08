@@ -216,3 +216,7 @@ After he created a storage account. The storage account configuration have some 
 [You can access here](slides-of-the-class.pptx)
 
 Again, the material here is **not** free to be copied and the presentation is a DIO presentation, please talk to them and not to me if you want to use the presentation.
+
+After in the next screen he get the storage account name:
+
+![storage account name](images/storage-account-name.png)

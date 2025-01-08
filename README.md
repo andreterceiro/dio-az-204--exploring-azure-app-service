@@ -238,6 +238,15 @@ Then in the page that listing the Azure services (home of Azure Portal) he click
 
 Teacher said that when you create a web app, a app service plan is also created.
 
+In the next screens he selected:
+
+- **Stack**: .NET 8;
+- He setected **Canada central** as the **region**;
+- Next he said: "pode ser Windows";
+- Then he said "não quero database" (refering to the information of database showed in the next screen);
+- He said in the second step "deploy vamos fazer na mão";
+- In the other configurations he left the default values.1
+
 
 # Slides of the class
 

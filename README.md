@@ -179,6 +179,35 @@ with slots you can have different versions of your web app and you can switch be
 
 Teacher said that slots is well applied to canary releases, where you wanna to limit the new version of the app to a small percent of the users, to rollback an implantation and to blue/green deployments.
 
+You can't work with slots in the basic layer.
+
+You can have a specific domain for every slot and this domain can point to a specific environment, like production.
+
+If you have different domains to every slot, you can have a specific certificate for every slot.
+
+About the slot changes:
+
+![slot changes](images/slot-changes.png)
+
+When you configure a slot, you can configure a percent of the traffic that be redirected to this slot. 
+
+![configuring percents](images/configuring-percents.png)
+
+Teacher said that is a good pratice to configure the cookie **x-ms-routing-name** pointing to the environment related to a specific slot.
+
+Teacher changed the slot related to the production easily with a click on a button "swap":
+
+![swapping](images/swapping.png)
+
+This occurred with no downtime.
+
+Teacher also made tests with a GET parameter http://domain/?**x-ms-routing-name=self**
+
+
+# Hands on
+
+First teacher created a resource group to put all the resources in this group.
+
 
 # Slides of the class
 

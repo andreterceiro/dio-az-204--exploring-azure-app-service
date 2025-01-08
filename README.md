@@ -267,9 +267,9 @@ Then he uploaded a zip file with this command:
 
 ![Uploading a zip file](images/uploading-a-zip-file.png)
 
-O resultado da execução do comando foi:
+The result of the execution of this command was:
 
-![resultado do upload](images/resultado-upload.png)
+![upload result](images/upload-result.png)
 
 
 # Slides of the class

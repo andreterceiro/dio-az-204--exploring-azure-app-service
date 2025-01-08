@@ -302,6 +302,8 @@ To run the second deploy, teacher run this command:
 
 ![command to do the second deploy](images/second-deploy.png)
 
+See that there are some little variations in relation to the first command to deploy the first app service.
+
 
 # Slides of the class
 

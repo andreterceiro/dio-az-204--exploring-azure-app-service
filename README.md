@@ -251,6 +251,16 @@ Then he opened VSCode and there he opened a local address allfiles\labs\01\start
 
 ![some project structure](images/some-project-structure.png)
 
+Then in a terrminal inside VSCode he executed:
+
+```
+az login
+```
+
+And logged in.
+
+
+
 
 # Slides of the class
 

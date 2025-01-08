@@ -210,13 +210,6 @@ First teacher created a resource group to put all the resources in this group.
 
 After he created a storage account. The storage account configuration have some fields related to a storage, using the words "files" (Azure files) and "blob".
 
-
-# Slides of the class
-
-[You can access here](slides-of-the-class.pptx)
-
-Again, the material here is **not** free to be copied and the presentation is a DIO presentation, please talk to them and not to me if you want to use the presentation.
-
 After in the next screen he get the storage account name:
 
 ![storage account name](images/storage-account-name.png)
@@ -226,3 +219,10 @@ After, in the same screen, he got the connection string and the key.
 Next, he created a blob container in the area of storage browser:
 
 ![storage browser container](images/storage-browser-container.png)
+
+
+# Slides of the class
+
+[You can access here](slides-of-the-class.pptx)
+
+Again, the material here is **not** free to be copied and the presentation is a DIO presentation, please talk to them and not to me if you want to use the presentation.

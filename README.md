@@ -285,6 +285,8 @@ Then he configured the same variables of the appsettings.json as environment var
 
 The api restarted itself and now he could access the images. End of part 1.
 
+Then he created a new web app using the same app service plan.
+
 
 # Slides of the class
 

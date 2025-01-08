@@ -220,3 +220,5 @@ Again, the material here is **not** free to be copied and the presentation is a 
 After in the next screen he get the storage account name:
 
 ![storage account name](images/storage-account-name.png)
+
+After, in the same screen, he got the connection string and the key.

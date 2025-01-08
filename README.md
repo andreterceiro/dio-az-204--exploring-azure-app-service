@@ -259,7 +259,9 @@ az login
 
 And logged in.
 
+Then to see the web apps created in Azure he executed:
 
+![web app list](images/web-app-list.png)
 
 
 # Slides of the class

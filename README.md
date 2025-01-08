@@ -223,6 +223,6 @@ After in the next screen he get the storage account name:
 
 After, in the same screen, he got the connection string and the key.
 
-Next, he created a storage browser container:
+Next, he created a blob container in the area of storage browser:
 
 ![storage browser container](images/storage-browser-container.png)

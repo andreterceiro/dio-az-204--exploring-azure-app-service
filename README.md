@@ -298,6 +298,10 @@ In the file appsettings.json teacher configured the node "ApiUrl" Then he ran th
 dotnet run
 ```
 
+To run the second deploy, teacher run this command:
+
+![command to do the second deploy](images/second-deploy.png)
+
 
 # Slides of the class
 

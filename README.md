@@ -224,7 +224,9 @@ Them he uploaded some images
 
 ![uploading images](images/uploading-images.png)
 
+He can got an address to access one of the images, but when he tried to access this address through the browser, he got an access denied error:
 
+![getting a HTTP address of an image](images/getting-a-https-address-of-an-image.png)
 
 # Slides of the class
 

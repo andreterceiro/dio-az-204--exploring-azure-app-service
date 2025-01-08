@@ -304,6 +304,10 @@ To run the second deploy, teacher run this command:
 
 See that there are some little variations in relation to the first command to deploy the first app service.
 
+Then again in the environment variables screen in the Azure portal, but now related to second web app he configured the environment variable "apiUrl" and he got the value from the txt file again, but the file appsettings.json also have this node (is the unique node in the second web app).
+
+Done!
+
 
 # Slides of the class
 

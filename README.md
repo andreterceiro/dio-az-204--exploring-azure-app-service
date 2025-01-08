@@ -267,6 +267,10 @@ Then he uploaded a zip file with this command:
 
 ![Uploading a zip file](images/uploading-a-zip-file.png)
 
+O resultado da execução do comando foi:
+
+![resultado do upload](images/resultado-upload.png)
+
 
 # Slides of the class
 

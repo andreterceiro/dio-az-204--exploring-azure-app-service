@@ -287,6 +287,11 @@ The api restarted itself and now he could access the images. End of part 1.
 
 Then he created a new web app using the same app service plan.
 
+Now we have the web apps:
+
+- imagewebhsouza001;
+- imageapihsouza001.
+
 
 # Slides of the class
 

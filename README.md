@@ -277,6 +277,12 @@ Then he accessed the file appsettings.json with some configurations of the app a
 
 ![appsettings.json](images/appsettings-json.png)
 
+Then he configured the same variables of the appsettings.json as environment variables. He got the values part from a txt file and part from appsettings.json
+
+![configuring environment variables part 1](images/configuring-environment-variables-1.png)
+
+![configuring environment variables part 2](images/configuring-environment-variables-2.png)
+
 
 # Slides of the class
 

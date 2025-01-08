@@ -220,6 +220,11 @@ Next, he created a blob container in the area of storage browser:
 
 ![storage browser container](images/storage-browser-container.png)
 
+Them he uploaded some images
+
+![uploading images](images/uploading-images.png)
+
+
 
 # Slides of the class
 

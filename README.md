@@ -271,6 +271,8 @@ The result of the execution of this command was:
 
 ![upload result](images/upload-result.png)
 
+The result of the upload seemed ok, but when teacher opened the URL of the app (you can see this URL in the previous image) in the browser, he saw that an error related to a connection string occurred. 
+
 
 # Slides of the class
 

@@ -236,6 +236,8 @@ Then in the page that listing the Azure services (home of Azure Portal) he click
 
 ![Creating a web app - step 3](images/creating-a-web-app-03.png)
 
+Teacher said that when you create a web app, a app service plan is also created.
+
 
 # Slides of the class
 

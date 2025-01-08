@@ -228,6 +228,15 @@ He can got an address to access one of the images, but when he tried to access t
 
 ![getting a HTTP address of an image](images/getting-a-https-address-of-an-image.png)
 
+Then in the page that listing the Azure services (home of Azure Portal) he clicked in "AZ204-LAB001" then he created a web app:
+
+![Creating a web app - step 1](images/creating-a-web-app-01.png)
+
+![Creating a web app - step 2](images/creating-a-web-app-02.png)
+
+![Creating a web app - step 3](images/creating-a-web-app-03.png)
+
+
 # Slides of the class
 
 [You can access here](slides-of-the-class.pptx)

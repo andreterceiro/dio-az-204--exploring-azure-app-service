@@ -292,6 +292,12 @@ Now we have the web apps:
 - imagewebhsouza001;
 - imageapihsouza001.
 
+In the file appsettings.json teacher configured the node "ApiUrl" Then he ran this command to run the API locally:
+
+```
+dotnet run
+```
+
 
 # Slides of the class
 

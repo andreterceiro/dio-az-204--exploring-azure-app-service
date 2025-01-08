@@ -273,6 +273,10 @@ The result of the execution of this command was:
 
 The result of the upload seemed ok, but when teacher opened the URL of the app (you can see this URL in the previous image) in the browser, he saw that an error related to a connection string occurred. 
 
+Then he accessed the file appsettings.json with some configurations of the app an looked for the node "StorageConectionString" of this JSON file:
+
+![appsettings.json](images/appsettings-json.png)
+
 
 # Slides of the class
 
